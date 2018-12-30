@@ -14,7 +14,7 @@ Mục tiêu:
 	+ Cập nhật tin tức mới nhất của nhà trường 
 
 1. Phân công công việc nhóm:
-	+ Nguyễn Mam Anh: Thời Khóa Biểu, Remember Me, Đăng Xuất
+	+ Nguyễn Nam Anh: Thời Khóa Biểu, Remember Me, Đăng Xuất
 	+ Lê Tuấn Hiệp: Giao diện, Điểm, Lịch thi, Thông báo và cập nhật tin tức
 	+ Đỗ Viết Duy: Login, Admin, Thông tin cá nhân
 2. Quá trình thực hiện:
@@ -33,10 +33,11 @@ Mục tiêu:
 		- Javascript
 		- JQuery
 		- JSP & Servlet
-		- Java (Mail, Json)
+		- Java (Mail, Json, Jsoup, Poi)
 		- Git
 		- Ajax
-		- Mô hình MVC
+		- Mô hình MVC (DAO, phát triển theo mô hình thác nước)
+		- Excel
 	+ Hạn chế:
 		- Thời gian login chậm
 		- Chưa thực hiện được PWA
