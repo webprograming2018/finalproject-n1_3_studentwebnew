@@ -33,7 +33,7 @@ Mục tiêu:
 		- Javascript
 		- JQuery
 		- JSP & Servlet
-		- Java
+		- Java (Mail, Json)
 		- Git
 		- Ajax
 		- Mô hình MVC
