@@ -4,9 +4,9 @@ HỌC KỲ I NĂM HỌC 2018 - 2019
 
 Nhóm: 01 _ STT: 3
 Thành viên:
-1. Họ và tên: Lê Tuấn Hiệp 	Mã sinh viên: B15DCCN209
-2. Họ và tên: Đỗ Viết Duy 	Mã sinh viên: B15DCCN164
-3. Họ và tên: Nguyễn Nam Anh 	Mã sinh viên: B15DCCN021
+1. Họ và tên: Lê Tuấn Hiệp 	- Mã sinh viên: B15DCCN209
+2. Họ và tên: Đỗ Viết Duy 	- Mã sinh viên: B15DCCN164
+3. Họ và tên: Nguyễn Nam Anh 	- Mã sinh viên: B15DCCN021
 
 Nội Dung:
 Mục tiêu:
